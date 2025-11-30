@@ -314,7 +314,7 @@ const ProjectDetail = ({ project, onBack }) => {
                             </div>
                             <div className="absolute inset-0 z-10 flex items-center justify-center pointer-events-none overflow-visible">
                                 <div className="relative transition-all duration-700 cubic-bezier(0.34, 1.56, 0.64, 1) transform-gpu group-hover:rotate-x-[8deg] group-hover:rotate-y-[-12deg] group-hover:translate-y-[-40px] group-hover:scale-105">
-                                    <SafeImage src={project.mockups[1]} fallbackSrc={FALLBACKS.mockup2} className="w-auto drop-shadow-2xl pointer-events-none" style={{ height: '400px' }} alt="Mockup 3D" />
+                                    <SafeImage src={project.mockups[1]} fallbackSrc={FALLBACKS.mockup2} className="w-auto drop-shadow-2xl pointer-events-none" style={{ height: '350px' }} alt="Mockup 3D" />
                                 </div>
                             </div>
                         </div>
