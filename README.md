@@ -1,7 +1,6 @@
-# ✨ Jubs Visuals | Portfolio Mobile & UI Design
+# ✨ Jubs Visuals | Portfolio 
 
-![Project Banner](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop)
-*(Substitua esse link acima por um print do seu site salvo na pasta public, ex: ./public/preview.png)*
+![Project Banner](<img width="1883" height="953" alt="image" src="https://github.com/user-attachments/assets/5c234065-0bcb-49a4-9e39-ff9028bc34a4" />)
 
 > "O design vai além da aparência, é sobre como algo faz sentir." 🎨
 
@@ -40,26 +39,9 @@ Aqui estão os principais aplicativos apresentados no portfólio:
 
 | Projeto | Categoria | Descrição Rápida |
 | :--- | :--- | :--- |
-| **🛡️ Lumora** | Segurança | App de segurança para mulheres com camuflagem e botão SOS. |
-| **🍵 Calmina** | Bem-estar | Auxílio contra ansiedade com sons da natureza e chás. |
-| **🐱 MeowMe** | Pets | Tudo para o cuidado e personalidade do seu gato. |
-| **🍃 Ecocarry** | Sustentabilidade | Guia para consumo consciente e vida zero lixo. |
+| **🛡️ Lumora** | Segurança para as Mulheres | App de segurança para mulheres com camuflagem e botão SOS. |
+| **🍵 Calmina** | Acalme sua mente | Auxílio contra ansiedade com sons da natureza e chás. |
+| **🐱 MeowMe** | Qual sua personalidade felina? | Tudo para o cuidado e personalidade do seu gato. |
+| **🍃 Ecocarry** | E-commerce Sustentavel | Guia para consumo consciente e vida zero lixo. |
 
 ---
-
-## 📦 Como rodar esse projeto
-
-Se você quiser clonar e rodar este portfólio na sua máquina:
-
-```bash
-# 1. Clone o repositório
-git clone [https://github.com/codejubs/meu-portfolio-jubs.git](https://github.com/codejubs/meu-portfolio-jubs.git)
-
-# 2. Entre na pasta
-cd meu-portfolio-jubs
-
-# 3. Instale as dependências
-npm install
-
-# 4. Rode o servidor de desenvolvimento
-npm run dev
