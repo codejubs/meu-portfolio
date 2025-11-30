@@ -1,6 +1,6 @@
 # ✨ Jubs Visuals | Portfolio 
 
-![Project Banner](<img width="1883" height="953" alt="image" src="https://github.com/user-attachments/assets/5c234065-0bcb-49a4-9e39-ff9028bc34a4" />)
+(<img width="1883" height="953" alt="image" src="https://github.com/user-attachments/assets/5c234065-0bcb-49a4-9e39-ff9028bc34a4" />)
 
 > "O design vai além da aparência, é sobre como algo faz sentir." 🎨
 
