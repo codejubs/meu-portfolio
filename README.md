@@ -39,9 +39,9 @@ Aqui estão os principais aplicativos apresentados no portfólio:
 
 | Projeto | Categoria | Descrição Rápida |
 | :--- | :--- | :--- |
-| **🛡️ Lumora** | Segurança para as Mulheres | App de segurança para mulheres com camuflagem e botão SOS. |
-| **🍵 Calmina** | Acalme sua mente | Auxílio contra ansiedade com sons da natureza e chás. |
-| **🐱 MeowMe** | Qual sua personalidade felina? | Tudo para o cuidado e personalidade do seu gato. |
-| **🍃 Ecocarry** | E-commerce Sustentavel | Guia para consumo consciente e vida zero lixo. |
+| **🛡️ Lumora** | Segurança para as Mulheres | App de segurança para mulheres com camuflagem e botão SOS acionado por botão atalho. |
+| **🍵 Calmina** | Acalme sua mente | Auxílio contra ansiedade com sons da natureza. |
+| **🐱 MeowMe** | Qual sua personalidade felina? | Se conecte com a personalidade do seu gato. |
+| **🍃 Ecocarry** | E-commerce ECO | Loja de Ecobags sustentáveis |
 
 ---
