@@ -1,16 +1,65 @@
-# React + Vite
+# ✨ Jubs Visuals | Portfolio Mobile & UI Design
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Project Banner](https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=1000&auto=format&fit=crop)
+*(Substitua esse link acima por um print do seu site salvo na pasta public, ex: ./public/preview.png)*
 
-Currently, two official plugins are available:
+> "O design vai além da aparência, é sobre como algo faz sentir." 🎨
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 👩‍💻 Sobre o Projeto
 
-## React Compiler
+Este é o meu portfólio pessoal interativo, desenvolvido para apresentar meus projetos de **Desenvolvimento Mobile (Android/Kotlin)** e **UI Design**. 
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+O objetivo foi criar uma experiência imersiva, fugindo do padrão estático. O site conta com **efeitos 3D**, animações suaves de entrada e uma galeria interativa para exibir os mockups dos aplicativos.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Tecnologias Utilizadas
+
+O projeto foi construído com ferramentas modernas para garantir performance e animações fluidas:
+
+* ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) **React.js** (Estrutura e Componentes)
+* ![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E) **Vite** (Build ultra-rápido)
+* ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) **Tailwind CSS** (Estilização e Responsividade)
+* ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white) **GSAP (GreenSock)** (Animações complexas e ScrollTrigger)
+* ![Lucide](https://img.shields.io/badge/Lucide-Icons-orange?style=for-the-badge) **Lucide React** (Ícones minimalistas)
+
+---
+
+## ✨ Funcionalidades do Portfólio
+
+* **🃏 Cards 3D Interativos:** Ao passar o mouse sobre os projetos, os mockups dos celulares "saltam" da tela com efeito de profundidade.
+* **📱 Responsividade:** Layout adaptado para funcionar perfeitamente em Desktop e Mobile.
+* **🎨 Bento Grid Layout:** Organização moderna e assimétrica dos elementos visuais.
+* **⚡ Performance:** Carregamento otimizado de imagens e animações.
+
+---
+
+## 📂 Projetos em Destaque
+
+Aqui estão os principais aplicativos apresentados no portfólio:
+
+| Projeto | Categoria | Descrição Rápida |
+| :--- | :--- | :--- |
+| **🛡️ Lumora** | Segurança | App de segurança para mulheres com camuflagem e botão SOS. |
+| **🍵 Calmina** | Bem-estar | Auxílio contra ansiedade com sons da natureza e chás. |
+| **🐱 MeowMe** | Pets | Tudo para o cuidado e personalidade do seu gato. |
+| **🍃 Ecocarry** | Sustentabilidade | Guia para consumo consciente e vida zero lixo. |
+
+---
+
+## 📦 Como rodar esse projeto
+
+Se você quiser clonar e rodar este portfólio na sua máquina:
+
+```bash
+# 1. Clone o repositório
+git clone [https://github.com/codejubs/meu-portfolio-jubs.git](https://github.com/codejubs/meu-portfolio-jubs.git)
+
+# 2. Entre na pasta
+cd meu-portfolio-jubs
+
+# 3. Instale as dependências
+npm install
+
+# 4. Rode o servidor de desenvolvimento
+npm run dev
